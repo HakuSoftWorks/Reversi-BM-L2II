@@ -20,6 +20,18 @@ Hitachi HD46800 8ビットMPU向けに作成しており、16KB RAM環境で動�
 - 終盤の完全探索
 - パス処理
 
+## スクリーンショット
+
+### 人間の手番
+石を置ける場所を `・` で表示し、選択中の合法手を点滅カーソルで示します。
+
+![REVERSI - 人間の手番](images/reversi_your_turn.png)
+
+### COMの思考中
+COMの手番では、経過時間と最大思考時間を表示します。
+
+![REVERSI - COM思考中](images/reversi_com_thinking.png)
+
 ## 対象機種
 
 - Hitachi BASIC MASTER LEVEL2II（MB-6881）
