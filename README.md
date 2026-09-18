@@ -20,6 +20,18 @@ Japanese documentation: [README-J.md](README-J.md)
 - exact endgame search
 - PASS handling
 
+## Screenshots
+
+### Human turn
+Legal moves are shown with `・`, and the selected legal move is indicated by the blinking cursor.
+
+![REVERSI - Human turn](images/reversi_your_turn.png)
+
+### Computer thinking
+During the computer turn, the elapsed and maximum thinking time are displayed.
+
+![REVERSI - Computer thinking](images/reversi_com_thinking.png)
+
 ## Target
 
 - Hitachi BASIC MASTER LEVEL2II (MB-6881)
