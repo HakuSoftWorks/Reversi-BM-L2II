@@ -1,0 +1,8 @@
+Copyright (C) 2026 Haku Soft Works
+All rights reserved.
+
+Unless otherwise stated, the binaries, documentation,
+and other original materials in this release are copyrighted by
+Haku Soft Works.
+
+No open-source license is granted by this release.
