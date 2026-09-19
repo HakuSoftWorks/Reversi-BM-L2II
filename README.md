@@ -20,6 +20,12 @@ Japanese documentation: [README-J.md](README-J.md)
 - exact endgame search
 - PASS handling
 
+## Actual Hardware Demo
+
+REVERSI v1.0 running on an actual Hitachi BASIC MASTER LEVEL2II (MB-6881).
+
+https://youtu.be/aiN6JqGPsug
+
 ## Screenshots
 
 ### Human turn
